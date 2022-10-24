@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://media.tenor.com/rec5dlPBK2cAAAAd/mr-bean-waiting.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/VibrantEllipticalEasteuropeanshepherd-max-1mb.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Kuba, a student, who's still waiting to join Envelo Academy 😂</div>  
+### <div align="center">v.1.0 I'm Kuba, a student, who's still waiting to join Envelo Academy 😂</div>  
+### <div align="center">v.1.1 I'm Kuba, a student and I'm not waiting anymore. Thanks a lot :) 😂</div>  
   
 
 - **🔭 I’m currently working hard on CRUD App and JetBrains Academy Projects on Java Backend Track.**  
