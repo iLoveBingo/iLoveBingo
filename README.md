@@ -4,7 +4,7 @@
   
 
 ### <div align="center">v.1.0 I'm Kuba, a student, who's still waiting to join Envelo Academy 😂</div>  
-### <div align="center">v.1.1 I'm Kuba, a student and I'm not waiting anymore. Thanks a lot :) 😂</div>  
+### <div align="center">v.1.1 I'm Kuba, a student who's not waiting anymore. Thanks a lot :) 😂</div>  
   
 
 - **🔭 I’m currently working hard on CRUD App and JetBrains Academy Projects on Java Backend Track.**  
